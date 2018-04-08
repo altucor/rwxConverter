@@ -1,5 +1,5 @@
 # rwxConverter
-This app allows you to convert chmod rules from 777 format to rwxrwxrwx and from rwxrwxrwx to 777, with input format autodetection
+This app allows you to convert chmod rules from 777 format to rwxrwxrwx and from rwxrwxrwx to 777, with input format autodetection <br />
 Using: <br />
 	* rwx 777 <br />
 	* rwx rwxrw--r-- <br />
